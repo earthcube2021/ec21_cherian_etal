@@ -15,4 +15,4 @@ Our notebook will demonstrate the use of cf-xarray to build an analysis pipeline
 
 .. |binder| image:: https://binder.pangeo.io/badge_logo.svg
    :alt: binder
-   :target: https://binder.pangeo.io/v2/gh/malmans2/cf-xarray-earthcube/main?filepath=DC_01_cf-xarray.ipynb
+   :target: https://binder.pangeo.io/v2/gh/earthcube2021/ec21_cherian_etal/main?filepath=DC_01_cf-xarray.ipynb
