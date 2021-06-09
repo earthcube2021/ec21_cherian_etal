@@ -3,8 +3,6 @@ cf-xarray-earthcube
 
 Interactive notebook: |binder|
 
-Abstract submitted to the `2021 EarthCube Annual Meeting <https://web.cvent.com/event/6589b2a2-9fd5-4e0b-a214-e0ba1c6348fe/summary>`_.
-
 **cf-xarray: Scale your analysis across datasets with less data wrangling and more metadata handling**
 
 **Authors:** Deepak Cherian, Mattia Almansi, Pascal Bourgault
