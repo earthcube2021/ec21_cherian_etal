@@ -1,0 +1,8 @@
+# https://pre-commit.com/
+repos:
+
+  - repo: https://github.com/deathbeds/prenotebook
+    rev: f5bdb72a400f1a56fe88109936c83aa12cc349fa
+    hooks:
+       - id: prenotebook
+
