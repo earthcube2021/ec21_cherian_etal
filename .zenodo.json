@@ -1,0 +1,9 @@
+{
+    "title": "cf-xarray: Scale your analysis across datasets with less data wrangling and more metadata handling",
+    "creators": [
+          {"name": "Mattia Almansi", "affiliation": "National Oceanography Centre",   "orcid": "0000-0001-6849-3647"},
+    {"name": "Deepak Cherian", "affiliation": "National Center for Atmospheric Research",  "orcid": "0000-0002-6861-8734"},
+    {"name": "Pascal Bourgault", "affiliation": "Ouranos Inc.",  "orcid": "0000-0003-1192-0403"}  
+    ],
+    "keywords": ["cf-conventions", "xarray", "netcdf"]
+}
