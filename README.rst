@@ -1,6 +1,10 @@
 cf-xarray-earthcube
 ###################
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496371.svg)](https://doi.org/10.5281/zenodo.5496371)
+
+
 Interactive notebook: |binder|
 
 **cf-xarray: Scale your analysis across datasets with less data wrangling and more metadata handling**
